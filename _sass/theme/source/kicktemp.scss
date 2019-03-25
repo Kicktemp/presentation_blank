@@ -133,8 +133,18 @@ svg.kicktemp {
   fill: #fff;
 }
 
+svg.jdlogo {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  width: 100px;
+  fill: #fff;
+}
+
 html.animationgif svg.kicktemp,
-html.hidekick svg.kicktemp {
+html.hidekick svg.kicktemp,
+html.animationgif svg.jdlogo,
+html.hidekick svg.jdlogo {
   display:none;
 }
 
