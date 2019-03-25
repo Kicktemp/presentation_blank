@@ -16,6 +16,7 @@
 title: Presentation Black Reveal.js
 email: niels@kicktemp.com
 description: >- # this means to ignore newlines until "baseurl:"
+author: "Niels Nübel"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://presentation_blank.kicktemp.com" # the base hostname & protocol for your site, e.g. http://example.com
